@@ -86,7 +86,7 @@ nav ul li a:hover{
     background-color: aqua;
     border: 2px groove white;
     border-radius: 50px;
-    background-image: url(./cofeetask/background.jpg);
+    background-image: url(./images/background.jpg);
     background-position: center;
     background-size: cover;
     padding: 10px;
@@ -125,7 +125,7 @@ nav ul li a:hover{
     margin: 10px;
     padding: 30px;
     justify-content: center;
-    background-image: url(./cofeetask/coffee2.jpg);
+    background-image: url(./images/coffee2.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -251,7 +251,7 @@ nav ul li a:hover{
 .images{
     width: 70%;
     height: 600px;
-    background-image: url(./cofeetask/img1.jpg);
+    background-image: url(./images/img1.jpg);
     background-size: 100% 100%;
     box-shadow:  5px 5px 5px 5px goldenrod;
     animation: imagess 20s linear infinite;
@@ -310,7 +310,7 @@ nav ul li a:hover{
 }
 .dataa:hover{
     transform: scale(1.2);
-    background-image: url(./cofeetask/img1.jpg);
+    background-image: url(./images/img1.jpg);
     background-size: cover;
     background-position: 100% ;
     border: 4px groove blanchedalmond;
